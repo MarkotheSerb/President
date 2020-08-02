@@ -142,7 +142,7 @@ stefB.addEventListener('click', function() {
     /*
     changeBgColor('#90EE90');
     */
-  }
+  
 /*
   function changeBgColor(color) {
     document.getElementById('tataScore').style.background = color;
