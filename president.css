@@ -1,0 +1,79 @@
+body {
+    background-color: powderblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 70px 0;
+}
+
+
+.reset {
+    height: 50px;
+    width: 75px;
+    border: none;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.score {
+    height: 100px;
+    width: 400px;
+    border: none;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.president {
+    height: 100px;
+    width: 100px;
+    border: none;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.VP {
+    height: 100px;
+    width: 100px;
+    border: none;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.VB {
+    height: 100px;
+    width: 100px;
+    border: none;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.B {
+    height: 100px;
+    width: 100px;
+    border: none;
+    background-color: #e7e7e7;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
