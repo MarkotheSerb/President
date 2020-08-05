@@ -148,6 +148,7 @@ stefB.addEventListener('click', function() {
     document.getElementById('tataScore').style.background = color;
   }
   */
+}
 
 
   
